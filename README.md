@@ -4,7 +4,7 @@ and displays whether they are identical or not.
 Please note that there are 2 instances of the program:
 1) An .exe instance (in the release folder) that is made with c# windows forms.
    Only compatible with windows os.
-2)A .jar instance that is made with java.swing library.
+2) A .jar instance that is made with java.swing library.
   Compatible with either windows or mac os.
 
 Special thanks to Amiga Yossy, Labai Lanna and Shamout Omar for testing the programs
