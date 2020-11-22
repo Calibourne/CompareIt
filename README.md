@@ -8,4 +8,5 @@ Please note that there are 2 instances of the program:
   Compatible with either windows or mac os.
 
 Special thanks to Amiga Yossy, Labai Lanna and Shamout Omar for testing the programs
+
 Aditional thanks to Labai Lanna for providing the guide for starting the .jar file on mac computers
