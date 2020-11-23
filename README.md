@@ -6,7 +6,7 @@ Please note that there are 2 instances of the program:
 1) An .exe instance (in the release folder) that is only compatible with windows os.
 2) A .jar instance that is compatible with either windows or mac os.
 
-Special thanks topeople who tested the programs:
+Special thanks to the students who tested the programs:
 * Amiga Yossy
 * Blam Jonathan
 * Labai Lanna 
