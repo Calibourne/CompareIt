@@ -1,17 +1,14 @@
-This is a simple program was made for studying purposes only.
-the program checks the content of 2 files that are provided to it
+This is a simple program that was made for studying purposes only.
+The program checks the content of 2 files that are provided to it,
 and displays whether they are identical or not.
 
-Please note that there are 2 instances of the program:
-1) An .exe instance (in the release folder) that is only compatible with windows os.
-2) A .jar instance that is compatible with either windows or mac os.
+Please note that in order to run the program properly, you need to make sure you have the latest Java SE version installed.
+You can download the Java SE from the following site: https://www.oracle.com/java/technologies/javase-downloads.html.
 
-Special thanks to the students who tested the programs:
+Special thanks to the students who tested the program:
 * Amiga Yossy
 * Blam Jonathan
 * Labai Lanna 
 * Shamout Omar
 
-Aditional thanks to Labai Lanna for providing the guide for starting the .jar file on mac computers
-
-If the .jar instance doesn't open please dowload Java SE 15 from the following site: https://www.oracle.com/java/technologies/javase-downloads.html
+Aditional thanks to Labai Lanna for providing the guide for starting the program on mac computers.
